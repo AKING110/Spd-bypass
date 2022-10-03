@@ -1,0 +1,2 @@
+#Nikal Lora 🤣
+import spd
